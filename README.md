@@ -22,7 +22,7 @@ MIT License
 
 ## ⚡ Installazione locale
 
-#### segui questi comandi
+#### segui questi comandi:
 
 
 #### installa ambiente virtuale
