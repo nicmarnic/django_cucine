@@ -20,7 +20,8 @@ Applicazione web per catalogo e vendita cucine con pannello amministrativo
 MIT License
 
 
-### ⚡ Installazione locale
+## ⚡ Installazione locale
+
 #### segui questi comandi
 
 #### installa ambiente virtuale
