@@ -1,6 +1,26 @@
-# deploy su https://nicmarp4.pythonanywhere.com/
+# Django Cucine
+Applicazione web per catalogo e vendita cucine con pannello amministrativo
 
-### per installarlo in locale
+## 🚀 Demo
+[Visualizza l'applicazione live](https://nicmarp4.pythonanywhere.com/)
+
+## 🛠️ Tecnologie
+- Django
+- Python 
+- HTML/CSS
+- PythonAnywhere (deploy)
+
+## 📋 Prerequisiti
+- Python 3.8+
+- pip
+
+
+
+## 📄 Licenza
+MIT License
+
+
+### ⚡ Installazione locale
 #### segui questi comandi
 
 #### installa ambiente virtuale
