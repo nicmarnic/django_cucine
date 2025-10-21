@@ -22,8 +22,6 @@ MIT License
 
 ## ⚡ Installazione locale
 
-#### segui questi comandi:
-
 
 #### installa ambiente virtuale
 python -m venv venv    
